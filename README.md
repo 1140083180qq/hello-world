@@ -1,3 +1,3 @@
 # hello-world
 my firsh item
-this step in order to change any massage
+this step in order to change any massage(s)
